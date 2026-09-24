@@ -1,0 +1,8 @@
+{
+  "name": "ProBot OPS Dashboard",
+  "description": "Probot-style Discord bot web dashboard for OPS server featuring real-time command customization, ticket panel designer with live speech-to-text transcription, moderation tools, staff points, server statistics, audit logs, and IP whitelisting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
